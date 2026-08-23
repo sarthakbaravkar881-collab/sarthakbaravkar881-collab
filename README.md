@@ -1,30 +1,80 @@
 <h1 align="center">Hi 👋, I'm Sarthak Baravkar</h1>
-<h3 align="center">A passionate data science, Data Analysis, cyber Security.</h3>
+<h3 align="center">Passionate about Data Science, Data Analytics, and Cyber Security 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakbaravkar881-collab&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakbaravkar881-collab" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakbaravkar881-collab" alt="sarthakbaravkar881-collab" /></a> </p>
-
-- 🔭 I’m currently working on [Solving Leetcode Question](https://github.com/sarthakbaravkar881-collab/LEETCODE)
-
-- 🌱 I’m currently learning **Cyber Security**
-
-- 💬 Ask me about **Python, c, java, Databases, SQL, Mongodb, Tabluea**
-
-- 📫 How to reach me **sarthakbaravkar881@gmail.com**
-
-- ⚡ Fun fact **I am currently learning Cyber Security**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarthak baravkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak baravkar" height="30" width="40" /></a>
-<a href="https://instagram.com/sarthak_baravkar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak_baravkar01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gwhdkcotut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gwhdkcotut/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarthakbaravkar881-collab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sarthakbaravkar881-collab&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbaravkar881-collab&show_icons=true&locale=en&layout=compact" alt="sarthakbaravkar881-collab" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakbaravkar881-collab&show_icons=true&locale=en" alt="sarthakbaravkar881-collab" /></p>
+### 👨‍💻 About Me
+
+*   🎓 Undergraduate pursuing a B.Tech in **Artificial Intelligence and Data Science**.
+*   🔭 I’m currently working on solving [LeetCode Questions](https://github.com/sarthakbaravkar881-collab/LEETCODE) to hone my algorithmic thinking.
+*   🌱 I’m actively learning and exploring **Cyber Security**, including network defense and penetration testing using Kali Linux.
+*   💬 Ask me about **Python, C, C++, Java, Relational/Non-Relational Databases, and Data Visualization**.
+*   📫 How to reach me: **[sarthakbaravkar881@gmail.com](mailto:sarthakbaravkar881@gmail.com)**
+*   ⚡ Fun fact: Aside from tech, I'm currently studying the Japanese language and preparing for JLPT!
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+*   **skillByte**: A hybrid quiz application that combines theoretical multiple-choice assessments with a live coding evaluation environment powered by the Judge0 API.
+*   **Global AI Adoption in Education**: A data analytics capstone project processing educational metrics and generating interactive geographical and statistical visualizations in Tableau.
+*   **Celestial Bodies Database**: A relational database designed in PostgreSQL mapping celestial datasets as part of the freeCodeCamp certification.
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakbaravkar881-collab&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbaravkar881-collab&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbaravkar881-collab&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 📈 Contribution Activity Graph
+
+<div align="center">
+  <a href="https://github.com/sarthakbaravkar881-collab">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakbaravkar881-collab&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+  </a>
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sarthak baravkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/sarthak_baravkar01" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/gwhdkcotut/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
