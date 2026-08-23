@@ -51,14 +51,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakbaravkar881-collab&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbaravkar881-collab&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakbaravkar881-collab&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sarthakbaravkar881-collab&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbaravkar881-collab&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
-
 ---
 
 ### 📈 Contribution Activity Graph
@@ -80,7 +79,6 @@
     <img alt="github contribution grid animation" src="https://raw.githubusercontent.com/sarthakbaravkar881-collab/sarthakbaravkar881-collab/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 ---
 
 ### 🌐 Connect with Me
