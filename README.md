@@ -2,12 +2,12 @@
 <h3 align="center">Passionate about Data Science, Data Analytics, and Cyber Security 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthakbaravkar881-collab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sarthakbaravkar881-collab&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sarthakbaravkar881-collab&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sarthakbaravkar881-collab&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Trophies" />
   </a>
 </p>
 
@@ -51,20 +51,21 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakbaravkar881-collab&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=sarthakbaravkar881-collab&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakbaravkar881-collab&amp;show_icons=true&amp;theme=radical&amp;v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sarthakbaravkar881-collab&amp;theme=radical&amp;v=1" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbaravkar881-collab&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbaravkar881-collab&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=radical&amp;v=1" alt="Top Languages" width="48%" />
 </div>
+
 ---
 
 ### 📈 Contribution Activity Graph
 
 <div align="center">
   <a href="https://github.com/sarthakbaravkar881-collab">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakbaravkar881-collab&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakbaravkar881-collab&amp;theme=react-dark&amp;hide_border=true&amp;v=1" alt="Contribution Graph" width="100%" />
   </a>
 </div>
 
@@ -79,12 +80,13 @@
     <img alt="github contribution grid animation" src="https://raw.githubusercontent.com/sarthakbaravkar881-collab/sarthakbaravkar881-collab/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarthak baravkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sarthak%20baravkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/sarthak_baravkar01" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/gwhdkcotut/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
