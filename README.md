@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/sarthak-baravkar-592b03384/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/sarthakbaravkar881/" target="_blank">
+  <a href="https://leetcode.com/u/GwHdkcotuT/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>&nbsp;&nbsp;
   <a href="mailto:sarthakbaravkar881@gmail.com">
@@ -37,9 +37,11 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
+<h3 align="center">
+  Hey! I'm <b>Sarthak Baravkar</b>, an undergraduate <b>AI &amp; Data Science engineering student</b>.
+</h3>
 <p align="center">
-  Hey! I'm <b>Sarthak Baravkar</b>, an undergraduate <b>AI & Data Science engineering student</b>.<br />
-  I am passionate about data structures, algorithms, and full-stack development, and I enjoy building efficient database architectures and interactive data visualizations.
+  <font size="4">I am passionate about data structures, algorithms, and full-stack development, and I enjoy building efficient database architectures and interactive data visualizations.</font>
 </p>
 
 <p align="center">
@@ -121,13 +123,13 @@
 <p align="center"><i>Live real-time tracker of coding challenges &amp; algorithmic problem-solving milestones.</i></p>
 
 <p align="center">
-  <a href="https://leetcode.com/sarthakbaravkar881/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/sarthakbaravkar881?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  <a href="https://leetcode.com/u/GwHdkcotuT/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/GwHdkcotuT?theme=dark&font=Karma&border=0&radius=12" width="480" alt="LeetCode Live Stats Card" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/sarthakbaravkar881/" target="_blank">
+  <a href="https://leetcode.com/u/GwHdkcotuT/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
   </a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Award-50_Days_Badge_Winner-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="50 Days Badge" />&nbsp;&nbsp;
@@ -141,14 +143,14 @@
 <p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,c&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c&theme=dark" height="48" alt="Languages" />
   </a>
 </p>
 
 <p align="center"><b>Databases &amp; Big Data</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" width="100%" style="max-width: 210px;" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" height="48" alt="Databases" />
   </a>
 </p>
 <p align="center">
@@ -160,7 +162,7 @@
 <p align="center"><b>Developer Tools, Platforms &amp; Design</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and Platforms" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" height="48" alt="Tools and Platforms" />
   </a>
 </p>
 <p align="center">
@@ -216,7 +218,7 @@
       <sub><b>Open Source</b></sub>
     </td>
     <td align="center" width="180" style="padding: 16px;">
-      <a href="https://leetcode.com/sarthakbaravkar881" target="_blank">
+      <a href="https://leetcode.com/u/GwHdkcotuT/" target="_blank">
         <img src="https://skillicons.dev/icons?i=leetcode" width="56" height="56" alt="LeetCode" /><br /><br />
         <img src="https://img.shields.io/badge/LeetCode-50_Days_Badge-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="LeetCode Badge" />
       </a><br />
