@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footer-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#ef4444" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#f87171" stop-opacity="1"/>
+      <stop offset="65%" stop-color="#ef4444" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="dot-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Glowing Line -->
+  <line x1="100" y1="30" x2="1100" y2="30" stroke="url(#footer-glow)" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Center Decorative Node -->
+  <circle cx="600" cy="30" r="10" fill="url(#dot-glow)"/>
+  <circle cx="600" cy="30" r="4" fill="#ffffff"/>
+
+  <!-- Diamonds on sides -->
+  <polygon points="350,30 355,25 360,30 355,35" fill="#ef4444" opacity="0.7"/>
+  <polygon points="850,30 845,25 840,30 845,35" fill="#ef4444" opacity="0.7"/>
+
+  <!-- Footer Text -->
+  <text x="600" y="60" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="12" font-weight="600" fill="#71717a" letter-spacing="3">
+    DESIGNED &amp; DEVELOPED BY SARTHAK BARAVKAR • 2026
+  </text>
+</svg>

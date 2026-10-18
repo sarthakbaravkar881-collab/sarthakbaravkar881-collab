@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0c"/>
+      <stop offset="50%" stop-color="#111116"/>
+      <stop offset="100%" stop-color="#070709"/>
+    </linearGradient>
+
+    <!-- Crimson Accents -->
+    <linearGradient id="crimson-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#ef4444" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#dc2626" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#991b1b" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#fca5a5"/>
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid-pattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ef4444" stroke-width="0.75" stroke-opacity="0.07"/>
+    </pattern>
+
+    <!-- Subtle Dots Pattern -->
+    <pattern id="dot-pattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ef4444" fill-opacity="0.08"/>
+    </pattern>
+
+    <!-- Filter for Glow Effects -->
+    <filter id="red-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="320" rx="16" fill="url(#bg-gradient)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid-pattern)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#dot-pattern)"/>
+
+  <!-- Card Border with glowing gradient -->
+  <rect width="1198" height="318" x="1" y="1" rx="15" fill="none" stroke="#262626" stroke-width="1.5"/>
+  <rect width="1198" height="318" x="1" y="1" rx="15" fill="none" stroke="url(#crimson-glow)" stroke-width="2"/>
+
+  <!-- Futuristic Corner Highlights -->
+  <!-- Top-Left -->
+  <path d="M 30 16 L 16 16 L 16 30" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <!-- Top-Right -->
+  <path d="M 1170 16 L 1184 16 L 1184 30" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <!-- Bottom-Left -->
+  <path d="M 16 290 L 16 304 L 30 304" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <!-- Bottom-Right -->
+  <path d="M 1184 290 L 1184 304 L 1170 304" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Top Terminal Bar Header -->
+  <g transform="translate(40, 36)">
+    <circle cx="0" cy="0" r="5" fill="#ef4444" />
+    <circle cx="16" cy="0" r="5" fill="#f59e0b" />
+    <circle cx="32" cy="0" r="5" fill="#10b981" />
+    <text x="56" y="4" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#71717a" letter-spacing="1.5">SARTHAK-PORTFOLIO // B.TECH AI &amp; DATA SCIENCE // v2.4</text>
+  </g>
+
+  <!-- Central Glowing Ambient Sphere -->
+  <circle cx="600" cy="150" r="140" fill="#dc2626" opacity="0.12" filter="url(#red-glow)"/>
+
+  <!-- Decorative Circuit lines -->
+  <path d="M 80 120 L 180 120 L 220 160 L 260 160" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-opacity="0.3" stroke-dasharray="4 4"/>
+  <circle cx="260" cy="160" r="3" fill="#ef4444" fill-opacity="0.6"/>
+
+  <path d="M 1120 120 L 1020 120 L 980 160 L 940 160" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-opacity="0.3" stroke-dasharray="4 4"/>
+  <circle cx="940" cy="160" r="3" fill="#ef4444" fill-opacity="0.6"/>
+
+  <!-- Main Title -->
+  <text x="600" y="145" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-weight="900" font-size="46" fill="url(#text-gradient)" letter-spacing="6">
+    SARTHAK BARAVKAR
+  </text>
+
+  <!-- Accent Divider Line -->
+  <line x1="380" y1="168" x2="820" y2="168" stroke="url(#crimson-glow)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Subtitle -->
+  <text x="600" y="202" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-weight="600" font-size="17" fill="#ef4444" letter-spacing="3.5">
+    AI &amp; DATA SCIENCE ENGINEER • SYSTEMS &amp; FULL-STACK DEVELOPER
+  </text>
+
+  <!-- Feature Badges Pills in SVG -->
+  <g transform="translate(600, 248)">
+    <!-- Pill 1: DSA -->
+    <g transform="translate(-240, 0)">
+      <rect x="-85" y="-14" width="170" height="28" rx="14" fill="#18181b" stroke="#3f3f46" stroke-width="1"/>
+      <circle cx="-65" cy="0" r="4" fill="#ef4444"/>
+      <text x="-52" y="4" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="12" fill="#e4e4e7">DSA &amp; LeetCode 50D</text>
+    </g>
+
+    <!-- Pill 2: Database Architectures -->
+    <g transform="translate(0, 0)">
+      <rect x="-100" y="-14" width="200" height="28" rx="14" fill="#18181b" stroke="#3f3f46" stroke-width="1"/>
+      <circle cx="-80" cy="0" r="4" fill="#ef4444"/>
+      <text x="-67" y="4" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="12" fill="#e4e4e7">PostgreSQL &amp; Databases</text>
+    </g>
+
+    <!-- Pill 3: Interactive Analytics -->
+    <g transform="translate(240, 0)">
+      <rect x="-90" y="-14" width="180" height="28" rx="14" fill="#18181b" stroke="#3f3f46" stroke-width="1"/>
+      <circle cx="-70" cy="0" r="4" fill="#ef4444"/>
+      <text x="-57" y="4" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="12" fill="#e4e4e7">Tableau &amp; Analytics</text>
+    </g>
+  </g>
+</svg>
